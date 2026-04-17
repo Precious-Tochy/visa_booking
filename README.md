@@ -25,32 +25,7 @@ Features:
 | Database | MySQL |
 | Version Control | Git / GitHub |
 
-
-📁 Project Structure
-visa_booking/
-├── app/
-│   ├── Http/Controllers/
-│   └── Models/
-├── resources/
-│   └── views/
-│       ├── indexes/
-│       │   └── partials/
-│       └── ...
-├── public/
-│   └── visa-booking/
-│       ├── css/
-│       ├── js/
-│       └── image/
-├── routes/
-│   └── web.php
-└── database/
-    └── migrations/
-
-
-
-
-
-👩‍💻 Author
+👩‍💻 Author:
 Abugu Precious
 - GitHub: [@precious-tochy](https://github.com/precious-tochy)
 - LinkedIn: [precious-tochy](https://www.linkedin.com/in/precious-tochy/)
