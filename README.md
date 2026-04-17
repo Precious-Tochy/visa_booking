@@ -1,8 +1,4 @@
- ✈️ Tochy Travels — Visa Booking & Travel Management System
-A full-stack travel agency web application built with Laravel, designed to streamline visa applications, flight bookings, hotel reservations, car rentals, guided tours, and travel packages for clients across multiple international destinations.
-
-🌍 Overview
-Tochy Travels is a professional travel facilitation platform that simplifies the entire travel planning process — from visa assistance to complete trip management. The system provides a seamless, secure, and user-friendly experience for clients seeking travel support to destinations including Japan, South Africa, Canada, the USA, the UK, Kenya, Algeria, and Gambia.
+ ✈️Tochy Travels is a full-stack travel agency platform built with Laravel, crafted to make international travel effortless. From visa processing to flight bookings, hotel reservations, car rentals, and guided tours — everything a traveler needs is handled in one place. Serving destinations across Japan, South Africa, Canada, the USA, the UK, Kenya, Algeria, and Gambia, Tochy Travels delivers a secure, modern, and seamless experience from the first click to the final booking.
 
 Features:
 - Visa Assistance: Guided visa application support for multiple countries
